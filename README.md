@@ -17,6 +17,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Cloud Telephony](#cloud-telephony)
 - [Edge Computing](#edge-computing)
 - [Email Delivery](#email-delivery)
+- [Hiring](#hiring)
 - [Hardware](#hardware)
 - [Payments](#payments)
 - [Marketing and Sales](#marketing-and-sales)
@@ -73,6 +74,10 @@ put your business on the path to transformative growth. Disrupt your industry wi
 
 - [Postmark](https://postmarkapp.com/for/bootstrapped-startups#pricing) - If you’ve launched your product, are charging for it, and haven’t taken outside investment, contact the Postmark support team and they'll give you $75 account credit to help with your email costs.
 - [SendGrid Accelerate](https://sendgrid.com/accelerate/) - SendGrid Accelerate is a program to help startups succeed. Startups participating in the SendGrid Accelerate program receive 12 months of product credit, access to mentoring, and networking opportunities exclusive to program participants.
+
+### Hiring
+
+- [Curious Thing](https://curiousthing.io) - If you're hiring, Curious Thing AI offers startups 75% off for your first 3 months on any paid plan if you use the code 'GITHUB19' when you subscribe directly into their paid plans or upgrade your plan. They use conversational AI to automate phone screening interviews and provide real-time scoring to help you shortlist your best candidates faster.
 
 ### Hardware
 
